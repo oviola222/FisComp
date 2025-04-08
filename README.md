@@ -6,7 +6,8 @@ Welcome to the repository for the course **Computational Physics**, offered duri
 
 My name is **Olavo Viola**, a graduate student (MSc) in Physics at UFU [(see my ResearchGate)](https://www.researchgate.net/profile/Olavo-Viola?ev=hdr_xprf). This repository documents the activities developed throughout the course, including individual and group projects. Here you will find source code, simulations and computational experiments related to physics problems and neural networks.
 
-## 🧮 About the course
+## 🖥️ About the course
+   ⌨️🖱️
 
 **Computational Physics** introduces and applies modern computational tools and techniques to solve problems in physics. Throughout the semester, we are exploring topics such as:
 
@@ -14,7 +15,7 @@ My name is **Olavo Viola**, a graduate student (MSc) in Physics at UFU [(see my 
 - Neural Networks from Scratch (NNFS)
 - 
 
-## 🧠 Current topic: NNFS
+## 📌 Current topic: NNFS
 
 At this stage of the course, we are working on building and training a simple **artificial neural network** by following the **Neural Networks from Scratch (NNFS)** approach, which emphasizes understanding and implementing each component manually using Python.
 
