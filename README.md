@@ -1,10 +1,10 @@
 # Computational Physics - PPGFIS (UFU) - 2025/1
 
-Welcome to the repository for the course **Computational Physics**, offered during the first semester of 2025 as part of the Graduate Program in Physics (**PPGFIS**) at the **Federal University of Uberlândia (UFU)** by **Prof. Dr. Gerson J. Ferreira**.
+Welcome to the repository for the course **Computational Physics**, offered during the first semester of 2025 as part of the Graduate Program in Physics (**PPGFIS**) at the **Federal University of Uberlândia (UFU)** by **Prof. Dr. Gerson J. Ferreira** [(Gerson's Git)](https://github.com/gersonjferreira).
 
 ## 👤 About me
 
-My name is **Olavo Viola**, a graduate student (MSc) in Physics at UFU. This repository documents the activities developed throughout the course, including individual and group projects. Here you will find source code, simulations and computational experiments related to physics problems and neural networks.
+My name is **Olavo Viola**, a graduate student (MSc) in Physics at UFU [(see my ResearchGate)](https://www.researchgate.net/profile/Olavo-Viola?ev=hdr_xprf). This repository documents the activities developed throughout the course, including individual and group projects. Here you will find source code, simulations and computational experiments related to physics problems and neural networks.
 
 ## 🧮 About the course
 
