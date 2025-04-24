@@ -1,0 +1,44 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+ENV/
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks Jupyter com outputs
+.ipynb_checkpoints/
+
+# Arquivos temporários de editores
+*.swp
+*.swo
+*~
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+*.cache
+*.tmp
+
+# Arquivos de configuração locais
+*.env
+*.local
+
+# Arquivos criados por matplotlib
+*.png
+*.pdf
+*.svg
+
+# Pastas de build (caso for criar pacotes)
+build/
+dist/
+*.egg-info/
